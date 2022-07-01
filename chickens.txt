@@ -1,1 +1,3 @@
-steven chick
+steven chick    
+
+fan {% blocktrans with = trimmed %}{% endblocktrans %}
